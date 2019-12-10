@@ -1,0 +1,53 @@
+[1111/184015.543:ERROR:browser_process_sub_thread.cc(221)] Waited 25 ms for network service
+[1111/185043.964:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1111/185043.964:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\GPUCache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_GPUCache_000
+[1111/185043.964:ERROR:disk_cache.cc(178)] Unable to create cache
+[1111/185043.964:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+[1111/185044.100:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1111/185044.101:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\Cache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_Cache_000
+[1111/185044.101:ERROR:disk_cache.cc(178)] Unable to create cache
+[1111/185048.088:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 1
+[1111/185048.088:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 3
+[1111/185954.894:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1111/185954.894:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\GPUCache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_GPUCache_000
+[1111/185954.894:ERROR:disk_cache.cc(178)] Unable to create cache
+[1111/185954.894:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+[1111/185955.020:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1111/185955.021:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\Cache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_Cache_000
+[1111/185955.021:ERROR:disk_cache.cc(178)] Unable to create cache
+[1111/185958.086:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 7
+[1111/185958.088:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 17
+[1111/185958.088:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 15
+[1111/185958.092:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 9
+[1111/185958.092:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 13
+[1111/190034.533:ERROR:browser_process_sub_thread.cc(221)] Waited 25 ms for network service
+[1111/190422.336:ERROR:browser_process_sub_thread.cc(221)] Waited 30 ms for network service
+[1209/172825.785:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1209/172825.785:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7251.35380\BrowserDataCache\GPUCache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7251.35380\BrowserDataCache\old_GPUCache_000
+[1209/172825.785:ERROR:disk_cache.cc(178)] Unable to create cache
+[1209/172825.785:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+[1209/172827.769:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1209/172827.769:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7251.35380\BrowserDataCache\Cache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7251.35380\BrowserDataCache\old_Cache_000
+[1209/172827.769:ERROR:disk_cache.cc(178)] Unable to create cache
+[1209/172828.766:ERROR:service_worker_storage.cc(2197)] Failed to delete the database: Database IO error
+[1209/214341.411:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1209/214341.412:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1209/234736.344:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1209/234736.346:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1209/234741.346:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1209/234741.349:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1209/234741.765:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1209/234741.767:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1209/235234.316:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1209/235234.320:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1209/235239.325:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1209/235239.327:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1209/235244.329:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1209/235244.334:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1210/104334.128:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1210/104334.133:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1210/113414.747:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1210/113414.747:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1210/113414.958:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1210/113414.962:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1210/113504.288:ERROR:browser_process_sub_thread.cc(221)] Waited 26 ms for network service

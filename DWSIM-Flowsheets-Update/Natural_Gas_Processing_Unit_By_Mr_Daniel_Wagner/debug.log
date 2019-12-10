@@ -1,0 +1,56 @@
+[1113/152453.610:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1113/152453.610:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\GPUCache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_GPUCache_000
+[1113/152453.610:ERROR:disk_cache.cc(178)] Unable to create cache
+[1113/152453.610:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+[1113/152453.777:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1113/152453.777:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\Cache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_Cache_000
+[1113/152453.778:ERROR:disk_cache.cc(178)] Unable to create cache
+[1113/152613.192:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1113/152613.192:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\GPUCache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_GPUCache_000
+[1113/152613.192:ERROR:disk_cache.cc(178)] Unable to create cache
+[1113/152613.192:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+[1113/152613.359:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1113/152613.360:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\Cache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_Cache_000
+[1113/152613.360:ERROR:disk_cache.cc(178)] Unable to create cache
+[1113/163245.571:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163245.571:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163245.579:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163245.579:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163250.594:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163250.594:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163250.598:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163250.598:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163255.613:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163255.617:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163255.623:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163255.624:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163300.632:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163300.633:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163300.637:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163300.642:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163305.650:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163305.657:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163305.659:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163305.661:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163310.681:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163310.681:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163310.681:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163310.681:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/172226.518:ERROR:browser_process_sub_thread.cc(221)] Waited 18 ms for network service
+[1113/172232.344:ERROR:browser_process_sub_thread.cc(221)] Waited 17 ms for network service
+[1114/155112.362:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1114/155112.364:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\GPUCache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_GPUCache_000
+[1114/155112.365:ERROR:disk_cache.cc(178)] Unable to create cache
+[1114/155112.365:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+[1114/155112.505:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1114/155112.506:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\Cache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_Cache_000
+[1114/155112.506:ERROR:disk_cache.cc(178)] Unable to create cache
+[1114/155608.911:ERROR:browser_process_sub_thread.cc(221)] Waited 36 ms for network service
+[1114/155624.637:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1114/155624.638:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\GPUCache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_GPUCache_000
+[1114/155624.638:ERROR:disk_cache.cc(178)] Unable to create cache
+[1114/155624.638:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+[1114/155624.762:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1114/155624.762:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\Cache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_Cache_000
+[1114/155624.762:ERROR:disk_cache.cc(178)] Unable to create cache
+[1114/155907.399:ERROR:browser_process_sub_thread.cc(221)] Waited 23 ms for network service

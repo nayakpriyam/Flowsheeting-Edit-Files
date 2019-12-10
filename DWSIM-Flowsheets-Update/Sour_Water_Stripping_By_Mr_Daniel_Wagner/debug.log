@@ -1,0 +1,26 @@
+[1114/160041.269:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1114/160041.271:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\GPUCache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_GPUCache_000
+[1114/160041.271:ERROR:disk_cache.cc(178)] Unable to create cache
+[1114/160041.271:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+[1114/160041.396:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1114/160041.397:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\Cache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_Cache_000
+[1114/160041.397:ERROR:disk_cache.cc(178)] Unable to create cache
+[1114/160047.668:ERROR:browser_process_sub_thread.cc(221)] Waited 23 ms for network service
+[1114/160049.553:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1114/160049.553:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\GPUCache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_GPUCache_000
+[1114/160049.553:ERROR:disk_cache.cc(178)] Unable to create cache
+[1114/160049.553:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+[1114/160049.680:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1114/160049.682:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\Cache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_Cache_000
+[1114/160049.682:ERROR:disk_cache.cc(178)] Unable to create cache
+[1114/160052.247:ERROR:browser_process_sub_thread.cc(221)] Waited 26 ms for network service
+[1114/164313.207:ERROR:browser_process_sub_thread.cc(221)] Waited 36 ms for network service
+[1114/164407.918:INFO:CONSOLE(1)] "reducers passed to configureStore must be a plain object.", source: https://c1.patreon.com/content-based/creatorPageV3.7de5265b.chunk.js (1)
+[1114/164409.411:INFO:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://www.patreon.com/dwsim/posts (0)
+[1114/164409.412:INFO:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://www.patreon.com/dwsim/posts (0)
+[1114/164409.413:INFO:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://www.patreon.com/dwsim/posts (0)
+[1114/164409.413:INFO:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://www.patreon.com/dwsim/posts (0)
+[1114/164409.413:INFO:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://www.patreon.com/dwsim/posts (0)
+[1114/164409.413:INFO:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://www.patreon.com/dwsim/posts (0)
+[1114/164409.414:INFO:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to fetch", source: https://www.patreon.com/dwsim/posts (0)
+[1114/170746.783:ERROR:browser_process_sub_thread.cc(221)] Waited 15 ms for network service

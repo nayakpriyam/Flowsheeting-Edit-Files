@@ -1,0 +1,21 @@
+[1113/150544.760:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/150544.763:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/150549.782:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/150549.782:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/150554.798:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/150554.798:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/151131.923:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/151131.925:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163245.563:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163245.579:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163250.577:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163250.598:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163255.604:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163255.613:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163300.617:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163300.633:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163305.650:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163305.650:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163310.681:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/163310.681:WARNING:dns_config_service_win.cc(672)] Failed to read DnsConfig.
+[1113/172234.983:ERROR:browser_process_sub_thread.cc(221)] Waited 20 ms for network service

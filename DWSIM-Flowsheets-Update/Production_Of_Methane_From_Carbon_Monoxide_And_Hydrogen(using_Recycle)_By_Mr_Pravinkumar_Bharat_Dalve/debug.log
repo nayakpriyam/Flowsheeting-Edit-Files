@@ -1,0 +1,8 @@
+[1111/151730.217:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1111/151730.217:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\GPUCache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_GPUCache_000
+[1111/151730.217:ERROR:disk_cache.cc(178)] Unable to create cache
+[1111/151730.218:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+[1111/151730.383:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1111/151730.383:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\Cache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_Cache_000
+[1111/151730.384:ERROR:disk_cache.cc(178)] Unable to create cache
+[1111/154745.537:ERROR:browser_process_sub_thread.cc(221)] Waited 18 ms for network service

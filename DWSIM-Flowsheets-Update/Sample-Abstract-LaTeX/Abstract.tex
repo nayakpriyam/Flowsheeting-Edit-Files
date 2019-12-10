@@ -1,0 +1,45 @@
+\documentclass[a4paper,12pt]{article}
+%\usepackage{fullpage}
+%\usepackage{pdfpages}
+
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
+
+\usepackage{color}
+\usepackage{amsmath,graphicx,makeidx}
+\usepackage{lscape}
+\usepackage{fancyhdr}
+\addtolength{\headheight}{1.5cm} % make more space for the header
+\pagestyle{fancyplain} % use fancy for all pages except chapter start
+\lhead{\includegraphics[height=1.7cm]{FOSSEE-logo}} % left logo
+\rhead{\includegraphics[height=3.5cm]{DWSIM-flowsheeting-project-logo}} % right logo
+\renewcommand{\headrulewidth}{0pt} % remove rule below header
+
+\title{Flowsheet Title} %Title of the flowsheet
+\author{Contributor Name \\ Institute Name} %Institute Name
+\date{}
+
+
+\begin{document}
+
+\maketitle
+
+\noindent \textbf{Background \& Description:} 
+\newline
+
+\vspace{15mm}
+\centerline{\includegraphics[width=1.2\linewidth]{flowsheet-image.png}}
+
+\newpage
+\noindent \textbf{Results:}
+
+Results table here
+
+\end{document}
+
+

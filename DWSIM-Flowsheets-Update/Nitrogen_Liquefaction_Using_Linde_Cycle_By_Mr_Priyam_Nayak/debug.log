@@ -1,0 +1,15 @@
+[1108/215730.473:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 1
+[1108/215730.478:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 7
+[1108/215730.499:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 13
+[1108/215730.499:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 15
+[1108/215730.499:WARNING:spdy_session.cc(3326)] Received HEADERS for invalid stream 17
+[1108/223056.469:ERROR:browser_process_sub_thread.cc(221)] Waited 23 ms for network service
+[1111/130152.650:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1111/130152.650:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\GPUCache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_GPUCache_000
+[1111/130152.652:ERROR:disk_cache.cc(178)] Unable to create cache
+[1111/130152.652:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+[1111/130152.801:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[1111/130152.802:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\Cache to C:\Users\Priyam\AppData\Roaming\DWSIM Project\DWSIM\5.8.7235.16694\BrowserDataCache\old_Cache_000
+[1111/130152.802:ERROR:disk_cache.cc(178)] Unable to create cache
+[1111/140215.343:ERROR:browser_process_sub_thread.cc(221)] Waited 35 ms for network service
+[1208/192639.921:ERROR:browser_process_sub_thread.cc(221)] Waited 14 ms for network service
